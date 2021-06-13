@@ -34,3 +34,4 @@
 #Miscellaneous
 *.zip
 *.xcodeproj
+.DS_Store
